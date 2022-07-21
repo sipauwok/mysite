@@ -1,0 +1,33 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+   
+body{
+
+    background-color: aquamarine;
+    color: rgb(42,42,42);
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'montserrat', sans-serif;
+}
+img
+         {
+           width:200px;
+            border-radius: 50%;
+               border:2px solid green;
+    
+        }
+a {
+    color: rgb(19, 163, 74);
+    text-decoration: none;
+    font-weight: 250;
+    font-size: 20px;
+
+}
+ul 
+          {
+            list-style-type: square;
+          }
+ul li a
+{
+ color: rgb(2, 20, 9)     ;
+}

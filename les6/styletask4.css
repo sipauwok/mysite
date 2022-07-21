@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+    color: rgb(177, 51, 51);
+
+
+}
+.content{
+    width: 100%;
+    margin: 0 auto;
+
+
+}
+.block{
+
+    height: 50px;
+    width: 100%;
+    background-color:  greenyellow  ;
+    border: 2px ;
+    margin-bottom: 5px;
+}
+.block1{
+
+
+}

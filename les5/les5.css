@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin:0 ;
+    box-sizing: border-box;
+ 
+ 
+ }
+body{
+background-color: bisque;
+color: rgb(177, 51, 51);
+
+}
+.content{
+    width: 60%;
+    margin: 0 auto;
+
+
+}
+.block{
+
+    height: 50px;
+    width: 100%;
+    background-color: coral;
+    border: 2px dashed brown;
+    margin-bottom: 5px;
+}
+.column1,
+.column2,
+.column3
+{
+    width: 40%;
+}
+.column1{
+    float: left;
+}
+.column2{
+    float: right;
+}
+.column3{
+          
+  float: right;
+}

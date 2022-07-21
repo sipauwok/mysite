@@ -1,0 +1,9 @@
+body{
+    font-family: "Courier New";
+    background: #99FFCC url("Новий проект.gif") fixed;
+    /* background-color:#99FFCC ;
+    background-image: url("pic1.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 0% 50% ;*/
+} 

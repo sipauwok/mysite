@@ -1,0 +1,19 @@
+body{
+ background-color: aqua;
+background-image: url("Новий проект.jpg"); 
+
+
+
+
+
+}
+
+
+h2{
+    font-family: "Tahoma";
+    color: navy;
+}
+p{
+    font-family: "Arial";
+    color: #800080;
+}

@@ -1,0 +1,26 @@
+body{
+
+    background-color: rgb(219, 24, 154);
+    color: rgb(12, 11, 11);
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'montserrat', sans-serif;
+}
+li{
+    list-style-type: none;
+   
+}
+a{
+
+
+    color: rgb(19, 163, 74);
+    text-decoration: none;
+    font-weight: 250;
+    font-size: 20px;
+
+}
+ul{
+    margin-left: 0;
+    padding-left: 0;
+
+}

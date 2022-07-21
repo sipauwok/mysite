@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+    color: rgb(177, 51, 51);
+    
+    }
+    .conteiner{
+        width: 60%;
+        margin: 0 auto;
+    
+    
+    }
+    .block{
+
+        height: 50px;
+        width: 100%;
+        background-color: coral;
+        border: 2px dashed brown;
+        margin-bottom: 5px;
+    }
+.column1,
+.column3
+{
+    width: 20%;
+    height: 150px;
+    float: left;
+}
+.column1{
+    float: left;
+}
+
+.column3{
+    height: 150px;
+    float: right;
+}
+.column2{
+width: 40%;
+    height: 150px;
+    margin-left: 10%;
+    float: left;
+
+}
+.footer{
+    clear: both;
+}
